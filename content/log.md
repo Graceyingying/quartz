@@ -879,3 +879,23 @@
 - 更新 `wiki/cities/San-Francisco.md`
   - 購物區塊從 5 行擴充為 10 行，補充 Gilroy、Vacaville、Napa、Great Mall、Stanford Shopping Center 各自說明與車程
   - 新增連結至 `[[wiki/themes/購物]]`
+
+## [2026-05-20] ingest | 2026美國拉斯維加斯 Outlets & Malls 攻略
+
+- 來源：`raw/articles/2026美國拉斯維加斯 Outlets & Malls 攻略：Premium Outlets North, Fashion Show Mall, Forum Shops, Miracle Mile Shops.md`（2026-03-25）
+- 更新 `wiki/cities/Las-Vegas.md`（source_count: 4 → 5）
+  - 新增「購物」大區塊：
+    - **2 間 Outlets**：North Premium Outlets（180+ 家，全美唯一 Oliver Peoples Outlet、Disney Store Outlet）、South Premium Outlets（~140 家，室內，近機場）
+    - **3 間 Malls**：Fashion Show Mall（200+ 家，大道中心，含 Tix4 Tonight）、Forum Shops（140+ 家，凱薩皇宮內，高級精品）、Miracle Mile Shops（70+ 家，Planet Hollywood 內，平價，停車第一小時免費）
+    - 每間含地址、位置、規模、品牌特色、開放時間
+    - 省錢通用技巧（VIP 會員、Black Friday）
+    - 5 間比較總表
+    - 3 種行程建議組合
+  - 新增 `[[wiki/themes/購物]]` 連結至相關頁面
+  - 更新來源引用
+- 更新 `wiki/themes/購物.md`（source_count: 2 → 3）
+  - 新增「拉斯維加斯 Outlets & Malls 完整攻略」大區塊（與舊金山攻略並列）
+  - 更新各城市購物重點：拉斯維加斯那行從「Forum Shops、Grand Canal Shoppes、Fashion Show Mall」更新為完整 5 間清單
+  - 更新 tags 新增「拉斯維加斯」
+  - 更新 source_count 及 updated 日期
+  - 新增資料來源條目

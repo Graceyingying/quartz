@@ -4,13 +4,13 @@ category: cities
 tags: [拉斯維加斯, 內華達, 賭城, 不夜城, 美西]
 state: 內華達州 Nevada
 created: 2026-04-29
-updated: 2026-04-29
-source_count: 4
+updated: 2026-05-20
+source_count: 5
 ---
 
 # 拉斯維加斯 Las Vegas
 
-> 來源：[[raw/articles/【拉斯維加斯自由行】2026旅遊行程規劃攻略｜必玩景點、交通、美食一次搞定]] | [[raw/articles/【拉斯維加斯】盤點17個賭城免費景點 ★ 小資族自由行必看 ｜Las Vegas - 誰都愛旅行]] | [[raw/articles/2026 拉斯維加斯景點攻略 - Top25 必玩、秀、美食、飯店都在這篇 - Tim Ting Travel 1]]
+> 來源：[[raw/articles/【拉斯維加斯自由行】2026旅遊行程規劃攻略｜必玩景點、交通、美食一次搞定]] | [[raw/articles/【拉斯維加斯】盤點17個賭城免費景點 ★ 小資族自由行必看 ｜Las Vegas - 誰都愛旅行]] | [[raw/articles/2026 拉斯維加斯景點攻略 - Top25 必玩、秀、美食、飯店都在這篇 - Tim Ting Travel 1]] | [[raw/articles/2026美國拉斯維加斯 Outlets & Malls 攻略：Premium Outlets North, Fashion Show Mall, Forum Shops, Miracle Mile Shops]]
 
 ---
 
@@ -194,10 +194,129 @@ source_count: 4
 
 ---
 
+## 購物
+
+拉斯維加斯有 2 間 Premium Outlets + 3 間大型 Mall，全部集中在賭城大道沿線或附近，購物非常方便。
+
+### 省錢通用技巧
+
+- **加入 VIP 會員**：Premium Outlets 系列加入官網 VIP 會員，可從 My VIP Center 查看各品牌折扣，印出紙本或出示手機畫面使用
+- **出發前查優惠**：各 Outlet / Mall 官網定期有額外折扣活動，出發前務必查詢
+- **Black Friday**：各 Outlet 均有 Black Friday 特別優惠（6am 開門），折扣最大
+- **感恩節 & 聖誕節**：所有 Outlet 休息；Forum Shops 及 Miracle Mile Shops 照常營業
+
+---
+
+### Outlets（暢貨中心）
+
+#### 1. Las Vegas North Premium Outlets ⭐ 規模最大、評價最好
+
+| 項目 | 說明 |
+|------|------|
+| **地址** | 875 South Grand Central Parkway, Las Vegas, NV 89106 |
+| **距賭城大道** | 車程約 20 分鐘 |
+| **規模** | 超過 180 家商店 |
+| **品牌特色** | 全美唯一 **Oliver Peoples Outlet**；特色品牌：Timberland、Karl Lagerfeld Paris；有少見的 **Disney Store Outlet**（比迪士尼樂園便宜，甚至買一送一）|
+| **開放時間** | 一–六 10am–8pm；日 10am–7pm；Black Friday 6am–10pm；感恩節 & 聖誕節休息 |
+| **官網** | premiumoutlets.com/outlet/las-vegas-north |
+
+> 💡 兩間 Premium Outlets 中規模較大、評價較好的首選。Oliver Peoples 和 Disney Store Outlet 是全美少見的特色品牌。
+
+---
+
+#### 2. Las Vegas South Premium Outlets ⭐ 離機場最近
+
+| 項目 | 說明 |
+|------|------|
+| **地址** | 7400 Las Vegas Boulevard South, Las Vegas, NV 89123 |
+| **距賭城大道** | 位於大道南端，離機場近 |
+| **規模** | 約 140 家商店（室內 Outlet）|
+| **品牌特色** | 較多平價品牌，室內空調舒適 |
+| **開放時間** | 一–六 10am–8pm；日 10am–7pm；Black Friday 6am–10pm；感恩節 & 聖誕節休息 |
+| **官網** | premiumoutlets.com/outlet/las-vegas-south |
+
+> 💡 比 North 規模稍小，但 140 家店仍很夠逛。抵達或離開拉斯維加斯時順路可安排。
+
+---
+
+### Malls（購物中心）
+
+#### 3. Fashion Show Mall ⭐ 賭城大道正中心
+
+| 項目 | 說明 |
+|------|------|
+| **地址** | 3200 Las Vegas Boulevard South, Las Vegas NV 89109 |
+| **位置** | 賭城大道中心點 |
+| **規模** | 超過 200 家商店 |
+| **品牌特色** | 中價位品牌為主；設有星光大道，不定時有走秀表演 |
+| **特色設施** | 外圍有知名餐廳；**Tix4 Tonight** 在此，可買 Show 折扣票 |
+| **開放時間** | 一–四 11am–8pm；五–六 10am–9pm；日 11am–7pm；Black Friday 9am–9pm；感恩節 & 聖誕節休息 |
+| **官網** | fslv.com |
+
+> 💡 逛賭城大道時最順路的 Mall。Tix4 Tonight 可買當天表演秀折扣票，是省錢看秀的好選擇。
+
+---
+
+#### 4. Forum Shops ⭐ 凱薩皇宮內高級精品商場
+
+| 項目 | 說明 |
+|------|------|
+| **地址** | 3500 Las Vegas Boulevard South, Las Vegas, NV 89109（凱薩皇宮內）|
+| **規模** | 超過 140 家商店 |
+| **品牌特色** | 高級精品為主：Kate Spade、Louis Vuitton、Gucci、Fendi、Polo Ralph Lauren、Hugo Boss、Nike |
+| **建築風格** | 羅馬風格，含亞特蘭提斯秀（免費，整點表演）|
+| **開放時間** | 日–四 10am–9pm；五–六 10am–10pm；感恩節 & 聖誕節 10am–9pm；Black Friday 10am–10pm |
+| **官網** | simon.com/mall/the-forum-shops-at-caesars |
+
+> 💡 逛凱薩皇宮時順道必逛。亞特蘭提斯秀（免費）就在商場內，詳見免費景點區塊。
+
+---
+
+#### 5. Miracle Mile Shops ⭐ Planet Hollywood 內平價商場
+
+| 項目 | 說明 |
+|------|------|
+| **地址** | 3663 Las Vegas Boulevard South, Las Vegas, NV 89109（Planet Hollywood 內）|
+| **規模** | 超過 70 家商店 |
+| **品牌特色** | 平價商品為主；特色店家：H&M、Sephora |
+| **裝潢風格** | 沙漠中東風（前身為 Desert Passage Mall）|
+| **停車** | 第一個小時免費 |
+| **開放時間** | 日–四 10am–9pm；五–六 10am–10pm；感恩節 & 聖誕節 10am–9pm；Black Friday 10am–10pm |
+| **官網** | miraclemileshopslv.com |
+
+> 💡 平價購物首選，停車第一小時免費。可先下載官網 Coupon Book 取得額外折扣。
+
+---
+
+### 拉斯維加斯購物比較總表
+
+| 名稱 | 類型 | 規模 | 位置 | 特色 | 適合對象 |
+|------|------|------|------|------|----------|
+| **North Premium Outlets** | Outlet | 180+ 家 | 大道北方，車程 20 分 | Oliver Peoples、Disney Store Outlet | 想買 Outlet 折扣、有車 |
+| **South Premium Outlets** | Outlet | ~140 家（室內）| 大道南端，近機場 | 平價品牌、室內空調 | 抵達/離開時順路 |
+| **Fashion Show Mall** | Mall | 200+ 家 | 大道正中心 | 走秀表演、Tix4 Tonight | 逛大道順路、買秀票 |
+| **Forum Shops** | Mall | 140+ 家 | 凱薩皇宮內 | 高級精品、羅馬風格 | 買精品、逛凱薩宮 |
+| **Miracle Mile Shops** | Mall | 70+ 家 | Planet Hollywood 內 | 平價、H&M、Sephora | 平價購物、停車免費 |
+
+---
+
+### 行程建議
+
+**逛大道順路購物**：Fashion Show Mall（中午）→ Forum Shops（下午，凱薩宮）→ Miracle Mile Shops（傍晚，Planet Hollywood）
+
+**Outlet 半日遊（自駕）**：North Premium Outlets（上午）→ 午餐 → 繼續逛或返回大道
+
+**離開前購物**：South Premium Outlets（近機場，離開當天早上）
+
+> 💡 詳細品牌比較與購物技巧 → [[wiki/themes/購物]]
+
+---
+
 ## 相關頁面
 
 - [[index]] — 知識庫首頁
 - [[wiki/itinerary]] — 行程總表
 - [[wiki/insights/羚羊谷完整攻略]] — 羚羊峽谷詳細攻略
 - [[wiki/themes/自然戶外]] — 大峽谷、錫安等近郊景點
+- [[wiki/themes/購物]] — 品牌比較、Outlet 攻略
 - [[wiki/logistics/城市間交通]] — 城市間移動
