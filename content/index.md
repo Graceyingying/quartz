@@ -53,6 +53,7 @@ updated: 2026-04-29
 | [[wiki/themes/自然戶外]] | 國家公園、健行 |
 | [[wiki/themes/文化歷史]] | 博物館、歷史景點 |
 | [[wiki/themes/都市探索]] | 街區漫遊、街頭文化 |
+| [[wiki/themes/購物]] | 美國必買包包品牌、Outlet 攻略 |
 
 ---
 

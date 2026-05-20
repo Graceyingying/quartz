@@ -69,6 +69,22 @@ source_count: 2
 
 ---
 
+## 美食推薦
+
+| 美食 / 餐廳 | 說明 | 位置 |
+|-------------|------|------|
+| **Phil's BBQ** | 聖地牙哥最知名 BBQ，排隊名店，份量超大 | 多處分店 |
+| **Hodad's** | 海灘漢堡名店，Ocean Beach 地標，牆上貼滿車牌 | Ocean Beach |
+| **Puesto** | 高評價墨西哥塔可，使用新鮮食材，有海景座位 | 漁人碼頭附近 |
+| **Juniper & Ivy** | 名廚 Richard Blais 主理，創意美式料理 | Little Italy |
+| **Carnitas' Snack Shack** | 豬肉料理專門店，戶外座位，輕鬆氛圍 | 多處分店 |
+| **In-N-Out Burger** | 美西必吃漢堡，聖地牙哥多處分店 | 全市多處 |
+| **墨西哥料理** | 緊鄰墨西哥邊境，道地墨西哥菜選擇豐富 | 舊城、市區 |
+
+> 💡 聖地牙哥緊鄰墨西哥，是美國吃道地墨西哥料理的最佳城市之一。
+
+---
+
 ## 購物 / Outlet
 
 ### Carlsbad Premium Outlets（卡爾斯巴 Outlet）

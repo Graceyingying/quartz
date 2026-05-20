@@ -701,3 +701,181 @@
 - 將第二階段從概略表格擴充為逐日詳細行程（6/23–6/27）
 - Day 11 移動日；Day 12 洛杉磯市區；Day 13 聖塔芭芭拉+丹麥小鎮；Day 14 聖地牙哥；Day 15 棕櫚泉+約書亞樹
 - 住宿維持 4 晚
+
+## [2026-05-04] lint | 知識庫健康檢查 #5
+
+發現並修復以下問題：
+1. 🔴 矛盾/過時資訊：`wiki/cities/San-Francisco.md` 世界盃提醒只寫「6–7 月」，缺少具體比賽日期 → 更新為 6/13–7/1，補充 6 場比賽日期，並標注超級盃已過
+2. 🟡 itinerary.md 第一階段提醒更新為具體世界盃比賽日
+
+無其他問題：
+✅ 無斷鏈
+✅ 無編碼破壞
+✅ 所有內部連結有效
+✅ raw/ 文章全部整合完畢
+✅ itinerary.md 天數加總正確（47 天）
+✅ 所有城市頁面具備五個核心區塊
+
+## [2026-05-07] ingest | 舊金山美食：舊金山 10 道必吃美食
+
+- 來源：raw/articles/舊金山美食：舊金山 10 道必吃美食.md
+- 更新 wiki/cities/San-Francisco.md
+  - 新增「舊金山 10 道必吃美食」專區
+    1. 酸麵包 Sourdough Bread
+    2. 蛤蜊巧達湯配酸麵包 Clam Chowder in a Bread Bowl
+    3. Mission 區墨西哥捲餅 Mission Burrito
+    4. 敦根尼斯螃蟹 Dungeness Crab
+    5. 托馬萊斯灣生蠔 Tomales Bay Oysters
+    6. Cioppino 義式海鮮湯
+    7. 唐人街點心 Chinatown Dim Sum
+    8. 幸運籤餅 Fortune Cookies
+    9. 愛爾蘭咖啡 Irish Coffee
+    10. 融合料理 Fusion Cuisine（韓式燒烤玉米餅、壽司捲餅、Japadog）
+  - 新增「美食實用資訊」區塊（納帕谷葡萄酒、素食選項、美食節）
+  - 重新組織美食推薦結構，將原有美食整合為「其他推薦美食」
+- 更新 source_count: 4 → 5
+- 更新 updated: 2026-05-07
+
+## [2026-05-07] lint | 知識庫健康檢查 #1
+
+### 檢查結果
+
+**✅ 無問題項目：**
+- ✅ 無斷鏈（所有已知已刪除頁面的連結都已清理）
+- ✅ 無編碼破壞（無中文亂碼）
+- ✅ 連結一致性（index.md 與實際目錄完全一致）
+- ✅ itinerary.md 連結有效
+- ✅ 無孤立頁面（所有城市頁面都有被其他頁面引用）
+- ✅ 天數大致合理（行程總表與城市頁面的天數建議基本一致）
+- ✅ 城市頁面結構完整（所有城市都有概覽、景點、交通、住宿區塊）
+
+**🟡 需要注意的項目：**
+1. 未整合文章（低優先級）
+   - 洛杉磯相關：5 篇文章可能尚未完全整合
+   - 拉斯維加斯相關：2 篇文章可能尚未完全整合
+2. 城市頁面不完整（低優先級）
+   - San-Diego 缺少美食推薦區塊
+   - Yosemite 缺少美食推薦區塊（國家公園可能不需要）
+
+### 總結
+
+知識庫整體健康狀況 **良好** ✅
+- 無高優先級問題（斷鏈、編碼破壞、矛盾資訊）
+- 結構完整，連結一致
+- 僅有少數低優先級的內容完整度問題
+
+## [2026-05-07] ingest | 【美國】San Francisco舊金山十大必吃美食
+
+- 來源：raw/articles/【美國】San Francisco舊金山十大必吃美食：美式限定漢堡、蛤蠣巧達濃湯配酸麵包、首長黃道蟹海鮮料理、亞洲火鍋、韓國料理！.md
+- 更新 wiki/cities/San-Francisco.md
+  - 新增「推薦餐廳（含地址與營業時間）」專區，包含：
+    - **海鮮餐廳**：Fog Harbor Fish House、Crab House at Pier 39
+    - **漢堡**：In-N-Out Burger、Super Duper Burgers
+    - **亞洲料理**：Happy Lamb Hot Pot（小肥羊火鍋）、Terra Cotta Warrior（陝西麵食）
+    - **韓國料理**：Manna Korean Restaurant、ZA ZANG Korean Noodles（炸醬麵）、Jin Mi Korean Cuisine（人蔘雞湯）
+  - 每間餐廳包含：地址、電話、營業時間、特色、推薦菜色、官網
+  - 新增 In-N-Out Burger 和 Jamba Juice 到「其他推薦美食」表格
+- 更新 source_count: 5 → 6
+- 更新 updated: 2026-05-07
+
+## [2026-05-07] lint | 知識庫健康檢查 #2
+
+### 檢查結果
+
+**✅ 無問題項目：**
+- ✅ 無斷鏈
+- ✅ 無編碼破壞
+- ✅ 連結一致性正確
+- ✅ 無矛盾資訊（Boudin Bakery、Dungeness Crab 資訊一致）
+- ✅ 舊金山頁面更新成功（新增 9 間餐廳詳細資訊，格式正確）
+
+**🟡 需要注意的項目（與 Lint #1 相同）：**
+1. 城市頁面不完整（低優先級）
+   - San-Diego 缺少美食推薦區塊
+   - Yosemite 缺少美食推薦區塊（國家公園可能不需要）
+2. 未整合文章（低優先級）
+   - 洛杉磯相關：可能還有更多細節未整合
+   - 拉斯維加斯相關：2 篇文章可能尚未完全整合
+
+### 與 Lint #1 比較
+
+| 項目 | 變化 |
+|------|------|
+| San-Francisco source_count | 5 → 6 ⬆️ |
+| 新增內容 | 9 間餐廳（含地址、電話、營業時間、推薦菜色）⬆️ |
+| 其他項目 | 持平 |
+
+### 總結
+
+知識庫整體健康狀況 **良好** ✅
+- 本次更新成功新增舊金山餐廳詳細資訊
+- 無新增錯誤或矛盾
+- 格式正確，資訊完整
+
+## [2026-05-19] ingest | 【2026美國必吃速食】In-N-Out/Culver's/Whataburger/Shake Shack
+
+- 來源：raw/articles/【2026美國必吃速食】到美國享受道地的美式速食！In-N-OutCulver'sWhataburgerShake Shack.md
+- 更新 wiki/themes/美食.md
+  - 新增「美國必吃速食」專區，涵蓋 10 間速食品牌：
+    - 漢堡類（7 間）：In-N-Out、Culver's、Whataburger、Shake Shack、Five Guys、Carl's Jr、BurgerFi
+    - 炸雞類（1 間）：Chick-fil-A
+    - 墨西哥料理類（1 間）：Chipotle
+    - 飲料類（1 間）：Wendy's
+  - 每間品牌包含：發源地、分布、特色、推薦餐點
+  - 新增「各城市可找到的速食品牌」對照表
+  - 新增相關頁面連結（舊金山、洛杉磯、拉斯維加斯）
+  - 更新 tags 新增「速食」
+  - 更新 source_count: 0 → 1
+- 更新 wiki/cities/San-Francisco.md
+  - 補充 In-N-Out 隱藏菜單細節（3×3、4×4、Protein Style、Flying Dutchman、Animal Fries）
+
+## [2026-05-19] ingest | 2026美國必買包包：Coach・Tory Burch・Kate Spade・Michael Kors・LeSportsac
+
+- 來源：`raw/articles/2026美國必買包包：Coach・Tory Burch・Kate Spade・Michael Kors・LeSportsac.md`（2026-03-25）
+- 建立 `wiki/themes/購物.md`
+  - 14 個品牌完整比較表（依價位分為平價精品、輕量旅行包、商務包、設計師品牌）
+  - 每個品牌包含：風格、美國價位（台幣）、台灣代理、購買地點、備註
+  - Mall vs Outlet vs Marketplace 購買地點說明
+  - 美西 5 大 Outlet 推薦（Desert Hills、Camarillo、Ontario Mills、Carlsbad、SF Premium Outlets）
+  - 各城市購物重點對照表
+  - 購物實用注意事項（退稅、行李重量、信用卡）
+- 更新 `index.md`（主題參考新增購物條目）
+
+## [2026-05-19] lint | 知識庫健康檢查 #1
+
+發現並修復以下問題：
+
+1. 🔴 矛盾資訊：`wiki/themes/自然戶外.md` America the Beautiful Pass 仍寫「$80 / 年」，與 2026 年漲價後的正確資訊（非美國居民 $250）不符 → 已更新，補充 $100/人 額外費用說明
+2. 🟡 缺少交叉引用：`wiki/themes/都市探索.md` 相關頁面未連結新建的購物頁面 → 補充 `[[wiki/themes/購物]]`
+3. 🟡 頁面不完整：`wiki/cities/San-Diego.md` 缺少「美食推薦」區塊（前次 Lint 已記錄）→ 已補充 7 間餐廳推薦
+
+無其他問題：
+✅ 無斷鏈（所有 [[wiki/...]] 連結均指向存在的頁面）
+✅ 無編碼破壞（所有頁面中文正常）
+✅ index.md 城市列表與 wiki/cities/ 目錄一致（含新增購物頁面）
+✅ itinerary.md 所有城市連結有效，天數加總正確（47 天）
+✅ 行程地理合理，無跳躍移動
+✅ 重要預約提醒已標注（優勝美地、羚羊谷、惡魔島）
+✅ 所有城市頁面現已具備五個核心區塊（San-Diego 補充美食後全部達標）
+✅ 所有 insights/ 頁面都有被引用
+✅ 新建 wiki/themes/購物.md 已被 index.md 和 都市探索.md 引用
+✅ 無孤立頁面
+✅ 時效性：世界盃（6/13–7/1）提醒仍有效；超級盃已過
+
+## [2026-05-19] ingest | 2026美國加州舊金山 Outlets & Malls 攻略
+
+- 來源：`raw/articles/2026美國加州舊金山 Outlets & Malls 攻略：Gilroy, Vacaville, Livermore, Napa, Great Mall, Stanford Shopping Center.md`（2026-03-25）
+- 更新 `wiki/themes/購物.md`（source_count: 1 → 2）
+  - 新增「舊金山灣區 Outlets & Malls 完整攻略」大區塊：
+    - **4 間 Outlets**：Gilroy（~100 家，4 區）、SF Premium Outlets/Livermore（189 家，大眾運輸可達）、Vacaville（~90 家，唯一有 Burberry & Gucci）、Napa（~45 家，唯一有 Barney's NY）
+    - **2 間 Malls**：Great Mall（196 家，灣區最大）、Stanford Shopping Center（150+ 家，歐式風格）
+    - 每間含地址、距舊金山車程、規模、品牌特色、交通、開放時間
+    - 省錢通用技巧（VIP 會員、Black Friday）
+    - 6 間比較總表
+    - 4 種行程建議組合
+  - 更新 Outlet 區塊：SF Premium Outlets 說明補充「詳見舊金山 Outlets 攻略」
+  - 更新各城市購物重點：舊金山那行補充 4 間 Outlets 名稱
+  - 更新 tags 新增「舊金山」
+- 更新 `wiki/cities/San-Francisco.md`
+  - 購物區塊從 5 行擴充為 10 行，補充 Gilroy、Vacaville、Napa、Great Mall、Stanford Shopping Center 各自說明與車程
+  - 新增連結至 `[[wiki/themes/購物]]`
