@@ -942,3 +942,29 @@
 ✅ 時效性：世界盃（6/13–7/1）提醒仍有效；超級盃已過
 ✅ America the Beautiful Pass 2026 漲價資訊（$250）在所有相關頁面均已更新
 ✅ raw/ 文章全部整合完畢（含最新 2 篇：拉斯維加斯 Outlets & 加州迪士尼）
+
+## [2026-05-21] ingest | 【2026美國必買】Top40美國購物伴手禮清單，超市藥妝、Outlet服飾推薦
+
+- 來源：`raw/articles/【2026美國必買】Top40美國購物伴手禮清單，超市藥妝、Outlet服飾推薦.md`（2026-05-14）
+- 更新 `wiki/themes/購物.md`（source_count: 3 → 4）
+  - 新增「美國必買美妝 & 保養品」區塊：
+    - 購買通路說明（百貨公司、機場免稅店、Outlet、Sephora、連鎖藥局）
+    - 6 大品牌價差總覽表（雅詩蘭黛、契爾氏、倩碧、M.A.C、品木宣言、Burt's Bees）
+    - 各品牌美國參考價（美金）與推薦商品
+    - 省錢策略（百貨 → Outlet → 機場免稅店）
+  - 更新「美國必買包包品牌」區塊：
+    - 平價精品表格新增「Outlet 美金參考價」欄位（Coach、Michael Kors、Tory Burch、Kate Spade 補充具體美金價格）
+  - 新增「美國必買衣服 & 運動品牌」區塊：
+    - 休閒服飾（Hollister、American Eagle、Calvin Klein、Polo Ralph Lauren、Lacoste、Levi's）
+    - 運動品牌（Nike、adidas、Under Armour、The North Face、Columbia、Timberland、Skechers）
+    - 每品牌含 Outlet 參考美金價格
+    - Outlet 購衣策略建議
+  - 新增「美國必買超市伴手禮 & 保健食品」區塊：
+    - 巧克力（Ghirardelli、Brookside、GODIVA、Lindt）
+    - 冰淇淋（Haagen-Dazs、Ben & Jerry's、Talenti gelato）
+    - 優格 & 水果（Chobani、Noosa、夏季水果）
+    - 保健食品（萊萃美維生素 B 群、益節 Move Free 三款、GNC 魚油、Nature's Bounty 膠原蛋白軟糖）
+    - 藥局省錢技巧（Walgreens 免費會員卡、買一送一活動）
+  - 更新 tags 新增「美妝、保健食品、伴手禮」
+  - 更新 source_count 及 updated 日期
+  - 新增資料來源條目
